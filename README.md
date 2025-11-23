@@ -1,4 +1,4 @@
-# Java Assignment 1 — Sarang Dev A
+# Java project !!
 
 **Files**
 - `java project` — Java source implementing:
